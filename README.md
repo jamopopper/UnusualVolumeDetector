@@ -28,3 +28,5 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 ![ue395lbgl0e51](https://user-images.githubusercontent.com/28206070/88943804-8d1ea080-d251-11ea-8c03-3f42da8849f6.png)
 
 ![s9jtygygl0e51](https://user-images.githubusercontent.com/28206070/88943801-8c860a00-d251-11ea-833b-8e7685360ab2.png)
+
+[![Run on Repl.it](https://repl.it/badge/github/SamPom100/UnusualVolumeDetector)](https://repl.it/github/SamPom100/UnusualVolumeDetector)
